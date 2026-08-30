@@ -1,0 +1,1 @@
+const posts=[...document.querySelectorAll(".post")],btn=document.querySelector(".load");let shown=3;btn.addEventListener("click",()=>{posts.slice(shown,shown+3).forEach(p=>p.hidden=false);shown+=3;if(shown>=posts.length)btn.hidden=true});
