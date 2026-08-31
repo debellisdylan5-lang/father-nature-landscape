@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://debellisdylan5-lang.github.io/father-nature-landscape/services/grass-and-sod/</loc>
+    <lastmod>2026-08-31T00:16:25.213Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://debellisdylan5-lang.github.io/father-nature-landscape/services/garden-enrichments/</loc>
     <lastmod>2026-08-31T00:16:20.031Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -733,11 +738,6 @@
   <url>
     <loc>https://debellisdylan5-lang.github.io/father-nature-landscape/services/tree-services/</loc>
     <lastmod>2026-08-31T00:04:26.237Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://debellisdylan5-lang.github.io/father-nature-landscape/services/grass-and-sod/</loc>
-    <lastmod>2026-08-31T00:04:24.559Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
